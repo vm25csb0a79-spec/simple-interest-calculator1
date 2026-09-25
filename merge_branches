@@ -1,0 +1,4 @@
+git checkout main
+git merge bug-fix-typo
+
+[Terminal ka actual output yahan paste karo]
